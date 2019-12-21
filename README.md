@@ -1,4 +1,3 @@
-```
 ## Akka based simulation of Chord
 
 
@@ -444,5 +443,3 @@ Providing longer chunk of logs for seeing extended results for multiple work ass
 -------------------------
 
 https://asing80.people.uic.edu/cs441/project/
-
-```
