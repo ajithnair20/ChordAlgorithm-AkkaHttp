@@ -1,3 +1,4 @@
+```
 ## Akka based simulation of Chord
 
 
@@ -437,9 +438,4 @@ Providing longer chunk of logs for seeing extended results for multiple work ass
 23:05:16.324 | default-dispatcher-18 | INFO  | 41.project.workers.Worker | [worker-3] Completed work: (dafb1db0-0369-4dc7-94ef-0217259e0f19,4,Actor[akka.tcp://ClusterSystem@127.0.0.1:3000/user/front-end-1#1380129533]) with result: 4 * 4 = 16
 23:05:16.330 | .default-dispatcher-4 | INFO  | .project.workers.FrontEnd | [front-end-1] Consumed result: 4 * 4 = 16 for job: 4, workId: dafb1db0-0369-4dc7-94ef-0217259e0f19, workIdHash: 3 from [worker-worker-3]
 
-
--------------------------
-7. Visualization and Demo
--------------------------
-
-https://asing80.people.uic.edu/cs441/project/
+```
