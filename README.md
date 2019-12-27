@@ -1,18 +1,17 @@
-```
+
 ## Akka based simulation of Chord
 
 
 Course Project - CS 441    
 Team : Ashesh Singh, Ajith Nair, Karan Raghani
 
-The aim of the project is to implement a cloud simulator that uses the **Chord protocol** 
-(https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf).
+The aim of the project is to implement a cloud simulator that uses the [**Chord protocol**](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf).
 
 We use Akka, a toolkit for building highly concurrent, distributed, and resilient message-driven applications to implement Chord.
 The projects simulates assignment of task from multiple Front Ends (users) and the Worker Nodes using Chord. 
 The implemntation is reselient to network failures, provides necessary logging to see work routing/assignment and 
 messages passed between the nodes.
-```
+
 
 Sample showing node lookup and REST invocation:
 ![Basic Setup Run](doc/sample-run.gif)
@@ -21,7 +20,7 @@ Sample showing Docker run:
 ![Basic Setup Run](doc/sample-run-docker.gif)
 
 
-```
+
 
 -----
 INDEX
