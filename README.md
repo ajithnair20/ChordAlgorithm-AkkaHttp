@@ -1,5 +1,5 @@
 
-## Akka based simulation of Chord
+## Chord Algorithm - Akka Http
 
 
 Course Project - CS 441    
